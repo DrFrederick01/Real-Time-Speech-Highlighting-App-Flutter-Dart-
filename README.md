@@ -116,9 +116,6 @@ _speech.listen(
 
 ## Screenshots  
 
-👉 Add your screenshots to `/screenshots/` and reference them like this:  
+<img src="Screenshot_20250905_113409.jpg" height="50%" width="50%" />
 
-```markdown
-<img src="screenshots/app_notes.png" height="50%" width="50%" />
-<img src="screenshots/app_highlighting.png" height="50%" width="50%" />
 
